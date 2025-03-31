@@ -95,7 +95,7 @@ My research mainly focuses on **Multimodal Emotion Recognition** and **Multimoda
 <hr>
 
 <dl>
-  <dt><img align="left" width="400" src="../images/paper/LoRASculpt.png" alt="LVLM_Safety_Survey"></dt>
+  <dt><img align="left" width="400" src="../images/paper/EMOE.png" alt="EMOE"></dt>
   <dd><a class="publication-title">EMOE: Modality-Specific Enhanced Dynamic Emotion Experts</a></dd>
   <dd><strong>Yiyang Fang<sup>&dagger;</sup></strong>, Wenke Huang<sup>&dagger;</sup>, Guancheng Wan<sup>&dagger;</sup>, Kehua Su*, Mang Ye*</dd>
   <dd>Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025</dd>
@@ -107,19 +107,18 @@ My research mainly focuses on **Multimodal Emotion Recognition** and **Multimoda
 <hr>
 
 <dl>
-  <dt><img align="left" width="400" src="../images/paper/MLLMFT_Survey.png" alt="Client As Navigator"></dt>
-  <dd><a href="https://arxiv.org/abs/2503.04543" class="publication-title">Keeping Yourself is Important in Downstream Tuning Multimodal Large Language Model</a></dd>
-  <dd>Wenke Huang<sup>&dagger;</sup>, <strong>Jian Liang<sup>&dagger;</sup></strong> <strong><span class="co-first">(co-first)</span></strong>, Xianda Guo<sup>&dagger;</sup>, Yiyang Fang<sup>&dagger;</sup>, Guancheng Wan<sup>&dagger;</sup>, Xuankun Rong, Chi Wen, Zekun Shi, Qingyun Li, Didi Zhu, Yanbiao Ma, Ke Liang, Bin Yang, He Li, Jiawei Shao, Mang Ye*, Bo Du*</dd>
+  <dt><img align="left" width="400" src="../images/paper/SEPM.png" alt="SEPM"></dt>
+  <dd><a class="publication-title">Catch Your Emotion: Sharpening Emotion Perception in Multimodal Large Language Models</a></dd>
+  <dd><strong>Yiyang Fang<sup>&dagger;</sup></strong>strong>, Jian Liang<sup>&dagger;</sup>, Wenke Huang<sup>&dagger;</sup>, Kehua Su*, Mang Ye*</dd>
   <dd>Under Review</dd>
 </dl>
 
 <hr>
 
 <dl>
-  <dt><img align="left" width="400" src="../images/paper/SPIDER.png" alt="MLLM_Finetune_Survey"></dt>
-  <dd><a href="https://arxiv.org/abs/2411.10928" class="publication-title">Learn from Downstream and Be Yourself in Multimodal Large Language Model Fine-Tuning</a></dd>
-
-  <dd>Wenke Huang, <strong>Jian Liang</strong>, Zekun Shi, Didi Zhu, Guancheng Wan, He Li, Bo Du, Dacheng Tao, Mang Ye*</dd>
+  <dt><img align="left" width="400" src="../images/paper/MLLM_survey.png" alt="MLLM_survey"></dt>
+  <dd><a href="https://arxiv.org/abs/2503.04543" class="publication-title">Keeping Yourself is Important in Downstream Tuning Multimodal Large Language Model</a></dd>
+  <dd>Wenke Huang<sup>&dagger;</sup>, Jian Liang<sup>&dagger;</sup>, Xianda Guo<sup>&dagger;</sup>, <strong>Yiyang Fang<sup>&dagger;</sup></strong> <strong><span class="co-first">(co-first)</span></strong>, Guancheng Wan<sup>&dagger;</sup>, Xuankun Rong, Chi Wen, Zekun Shi, Qingyun Li, Didi Zhu, Yanbiao Ma, Ke Liang, Bin Yang, He Li, Jiawei Shao, Mang Ye*, Bo Du*</dd>
   <dd>Under Review</dd>
 </dl>
 
@@ -127,10 +126,6 @@ My research mainly focuses on **Multimodal Emotion Recognition** and **Multimoda
 
 
 # 🎖 Honors and Awards
-- Outstanding Graduate of School of Mathematics and Statistics, Wuhan University <span style="float: right;">*Wuhan University*</span>
-- First Class Scholarship of Wuhan University (Award Rate: <strong>5% school-wide</strong>) <span style="float: right;">*Wuhan University*</span>
-- <a href="https://edf.whu.edu.cn/info/1342/6057.htm">Xunteng Huang Memorial Scholarship</a> (Award Rate: <strong>2% department-wide</strong>)   <span style="float: right;">*Wuhan University*</span>
-- <a href="https://edu.hicomputing.huawei.com/winnerlist#:~:text=%E6%98%B1%E6%AC%A3%EF%BC%8C-,%E6%A2%81%E5%81%A5,-%EF%BC%8C">Huawei Intelligent Base Scholarship</a>   <span style="float: right;">*Huawei*</span>
 
 
 
