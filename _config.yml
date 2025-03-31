@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yiyang Fang (方羿阳)"
+  name             : "Yiyang Fang"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Master student at Wuhan University"
   location         : "Wuhan, China"
