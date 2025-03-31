@@ -74,9 +74,9 @@ redirect_from:
 
 # Short Bio
 
-I am currently a first-year Ph.D. student in the [School of Computer Science at Wuhan University](https://cs.whu.edu.cn/), advised by Prof. [Mang Ye](https://scholar.google.com/citations?user=j-HxRy0AAAAJ&hl=zh-CN). Previously, I received my bachelor degree from the [School of Mathematics and Statistics at Wuhan University](https://maths.whu.edu.cn/) in 2024. If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail or [Wechat](https://github.com/user-attachments/assets/7777009a-aa6c-4ed9-aa4c-5da9204c03a5).
+I am currently a first-year Master student in the [School of Computer Science at Wuhan University](https://cs.whu.edu.cn/), advised by Prof. [Mang Ye](https://scholar.google.com/citations?user=j-HxRy0AAAAJ&hl=zh-CN). Previously, I received my bachelor degree from the [School of Computer Science and Technology at Shandong University](https://www.cs.sdu.edu.cn/) in 2024. If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail.
 
-My research mainly focuses on **Multimodal Large Language Models** and **Parameter-Efficient Fine-Tuning**.
+My research mainly focuses on **Multimodal Emotion Recognition** and **Multimodal Large Language Model**.
 
 
 
@@ -84,7 +84,7 @@ My research mainly focuses on **Multimodal Large Language Models** and **Paramet
 # 🔥 News
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
-  <li><em>2025.02:</em> 🚀 LoRASculpt was accepted to <strong>CVPR 2025</strong>.</li>
+  <li><em>2025.02:</em> 🚀 EMOE was accepted to <strong>CVPR 2025</strong>.</li>
 </ul>
 </div>
 
@@ -96,8 +96,8 @@ My research mainly focuses on **Multimodal Large Language Models** and **Paramet
 
 <dl>
   <dt><img align="left" width="400" src="../images/paper/LoRASculpt.png" alt="LVLM_Safety_Survey"></dt>
-  <dd><a href="https://arxiv.org/abs/2503.16843" class="publication-title">LoRASculpt: Sculpting LoRA for Harmonizing General and Specialized Knowledge in Multimodal Large Language Models</a></dd>
-  <dd><strong>Jian Liang<sup>&dagger;</sup></strong>, Wenke Huang<sup>&dagger;</sup>, Guancheng Wan<sup>&dagger;</sup>, Qu yang, Mang Ye*</dd>
+  <dd><a class="publication-title">EMOE: Modality-Specific Enhanced Dynamic Emotion Experts</a></dd>
+  <dd><strong>Yiyang Fang<sup>&dagger;</sup></strong>, Wenke Huang<sup>&dagger;</sup>, Guancheng Wan<sup>&dagger;</sup>, Kehua Su*, Mang Ye*</dd>
   <dd>Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025</dd>
 </dl>
 
