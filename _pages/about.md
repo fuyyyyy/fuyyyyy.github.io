@@ -74,7 +74,7 @@ redirect_from:
 
 # Short Bio
 
-I am currently a first-year Master student in the [School of Computer Science at Wuhan University](https://cs.whu.edu.cn/), advised by Prof. [Mang Ye](https://scholar.google.com/citations?user=j-HxRy0AAAAJ&hl=zh-CN). Previously, I received my bachelor degree from the [School of Computer Science and Technology at Shandong University](https://www.cs.sdu.edu.cn/) in 2024. If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail.
+Hi there! My name is Yiyang Fang (方羿阳), I am currently a first-year Master student in the [School of Computer Science at Wuhan University](https://cs.whu.edu.cn/), advised by Prof. [Mang Ye](https://scholar.google.com/citations?user=j-HxRy0AAAAJ&hl=zh-CN). Previously, I received my bachelor degree from the [School of Computer Science and Technology at Shandong University](https://www.cs.sdu.edu.cn/) in 2024. If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail.
 
 My research mainly focuses on **Multimodal Emotion Recognition** and **Multimodal Large Language Model**.
 
@@ -109,7 +109,7 @@ My research mainly focuses on **Multimodal Emotion Recognition** and **Multimoda
 <dl>
   <dt><img align="left" width="400" src="../images/paper/SEPM.png" alt="SEPM"></dt>
   <dd><a class="publication-title">Catch Your Emotion: Sharpening Emotion Perception in Multimodal Large Language Models</a></dd>
-  <dd><strong>Yiyang Fang<sup>&dagger;</sup></strong>strong>, Jian Liang<sup>&dagger;</sup>, Wenke Huang<sup>&dagger;</sup>, Kehua Su*, Mang Ye*</dd>
+  <dd><strong>Yiyang Fang<sup>&dagger;</sup></strong>, Jian Liang<sup>&dagger;</sup>, Wenke Huang<sup>&dagger;</sup>, Kehua Su*, Mang Ye*</dd>
   <dd>Under Review</dd>
 </dl>
 
@@ -131,6 +131,6 @@ My research mainly focuses on **Multimodal Emotion Recognition** and **Multimoda
 
 # 📖 Educations
 
-- *2024.09 - now*, PhD Student, School of Computer Science, Wuhan University, China.
-- *2020.09 - 2024.06*, Bachelor, School of Mathematics and Statistics, Wuhan University, China.
+- *2024.09 - now*, Master Student, School of Computer Science, Wuhan University, China.
+- *2020.09 - 2024.06*, Bachelor, School of Computer Science and Technology, Shandong University, China.
 
