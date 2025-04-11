@@ -76,7 +76,7 @@ redirect_from:
 
 Hi there! My name is Yiyang Fang (方羿阳), I am currently a first-year Master student in the [School of Computer Science at Wuhan University](https://cs.whu.edu.cn/), advised by Prof. [Mang Ye](https://scholar.google.com/citations?user=j-HxRy0AAAAJ&hl=zh-CN). Previously, I received my bachelor degree from the [School of Computer Science and Technology at Shandong University](https://www.cs.sdu.edu.cn/) in 2024. If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail.
 
-My research mainly focuses on **Multimodal Emotion Recognition** and **Multimodal Large Language Model**.
+My research mainly focuses on **Multimodal Emotion Recognition**.
 
 
 
@@ -123,10 +123,6 @@ My research mainly focuses on **Multimodal Emotion Recognition** and **Multimoda
 </dl>
 
 <hr>
-
-
-# 🎖 Honors and Awards
-
 
 
 # 📖 Educations
