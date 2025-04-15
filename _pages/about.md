@@ -109,7 +109,7 @@ My research mainly focuses on **Multimodal Emotion Recognition**.
 <dl>
   <dt><img align="left" width="400" src="../images/paper/SEPM.png" alt="SEPM"></dt>
   <dd><a class="publication-title">Catch Your Emotion: Sharpening Emotion Perception in Multimodal Large Language Models</a></dd>
-  <dd><strong>Yiyang Fang<sup>&dagger;</sup></strong>, Jian Liang<sup>&dagger;</sup>, Wenke Huang<sup>&dagger;</sup>, Kehua Su*, Mang Ye*</dd>
+  <dd><strong>Yiyang Fang<sup>&dagger;</sup></strong>, Jian Liang<sup>&dagger;</sup>, Wenke Huang<sup>&dagger;</sup>, He Li, Kehua Su*, Mang Ye*</dd>
   <dd>Under Review</dd>
 </dl>
 
