@@ -96,19 +96,19 @@ My research mainly focuses on **Multimodal Emotion Recognition**.
 <hr>
 
 <dl>
-  <dt><img align="left" width="400" src="../images/paper/EMOE.png" alt="EMOE"></dt>
-  <dd><a class="publication-title">EMOE: Modality-Specific Enhanced Dynamic Emotion Experts</a></dd>
-  <dd><strong>Yiyang Fang<sup>&dagger;</sup></strong>, Wenke Huang<sup>&dagger;</sup>, Guancheng Wan<sup>&dagger;</sup>, Kehua Su*, Mang Ye*</dd>
-  <dd>Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025</dd>
+  <dt><img align="left" width="400" src="../images/paper/SEPM.png" alt="SEPM"></dt>
+  <dd><a class="publication-title">Catch Your Emotion: Sharpening Emotion Perception in Multimodal Large Language Models</a></dd>
+  <dd><strong>Yiyang Fang<sup>&dagger;</sup></strong>, Jian Liang<sup>&dagger;</sup>, Wenke Huang<sup>&dagger;</sup>, He Li, Kehua Su*, Mang Ye*</dd>
+  <dd>International Conference on Machine Learning  <strong>(ICML)</strong> <strong>Spotlight</strong>, 2025</dd>
 </dl>
 
 <hr>
 
 <dl>
-  <dt><img align="left" width="400" src="../images/paper/SEPM.png" alt="SEPM"></dt>
-  <dd><a class="publication-title">Catch Your Emotion: Sharpening Emotion Perception in Multimodal Large Language Models</a></dd>
-  <dd><strong>Yiyang Fang<sup>&dagger;</sup></strong>, Jian Liang<sup>&dagger;</sup>, Wenke Huang<sup>&dagger;</sup>, He Li, Kehua Su*, Mang Ye*</dd>
-  <dd>International Conference on Machine Learning  <strong>(ICML)</strong>, 2025</dd>
+  <dt><img align="left" width="400" src="../images/paper/EMOE.png" alt="EMOE"></dt>
+  <dd><a class="publication-title">EMOE: Modality-Specific Enhanced Dynamic Emotion Experts</a></dd>
+  <dd><strong>Yiyang Fang<sup>&dagger;</sup></strong>, Wenke Huang<sup>&dagger;</sup>, Guancheng Wan<sup>&dagger;</sup>, Kehua Su*, Mang Ye*</dd>
+  <dd>Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025</dd>
 </dl>
 
 <hr>
