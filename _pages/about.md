@@ -84,7 +84,7 @@ My research mainly focuses on **Multimodal Emotion Recognition**.
 # 🔥 News
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
-  <li><em>2025.05:</em> SEPM was accepted to <strong>ICLR 2025 (Spotlight)</strong>.</li>
+  <li><em>2025.05:</em> SEPM was accepted to <strong>ICML 2025 (Spotlight)</strong>.</li>
   <li><em>2025.02:</em> 🚀 EMOE was accepted to <strong>CVPR 2025</strong>.</li>
 </ul>
 </div>
