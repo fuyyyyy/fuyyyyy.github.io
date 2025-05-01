@@ -84,6 +84,7 @@ My research mainly focuses on **Multimodal Emotion Recognition**.
 # 🔥 News
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
+  <li><em>2025.05:</em> SEPM was accepted to <strong>ICLR 2025 (Spotlight)</strong>.</li>
   <li><em>2025.02:</em> 🚀 EMOE was accepted to <strong>CVPR 2025</strong>.</li>
 </ul>
 </div>
@@ -103,15 +104,16 @@ My research mainly focuses on **Multimodal Emotion Recognition**.
 
 <hr>
 
-## ⌛️ In Submission & Preprint
-<hr>
-
 <dl>
   <dt><img align="left" width="400" src="../images/paper/SEPM.png" alt="SEPM"></dt>
   <dd><a class="publication-title">Catch Your Emotion: Sharpening Emotion Perception in Multimodal Large Language Models</a></dd>
   <dd><strong>Yiyang Fang<sup>&dagger;</sup></strong>, Jian Liang<sup>&dagger;</sup>, Wenke Huang<sup>&dagger;</sup>, He Li, Kehua Su*, Mang Ye*</dd>
-  <dd>Under Review</dd>
+  <dd>International Conference on Machine Learning  <strong>(ICML)</strong>, 2025</dd>
 </dl>
+
+<hr>
+
+## ⌛️ In Submission & Preprint
 
 <hr>
 
