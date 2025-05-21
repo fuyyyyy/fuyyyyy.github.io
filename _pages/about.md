@@ -123,7 +123,7 @@ My research mainly focuses on **Multimodal Emotion Recognition** and **Multimoda
 
 <dl>
   <dt><img align="left" width="400" src="../images/paper/HeartPrune.png" alt="HeartPrune"></dt>
-  <dd><a href="https://arxiv.org/abs/2503.04543" class="publication-title">HeartPrune: Heuristic Emotion-Aware Ranking for Training-free Datasets Pruning in MLLMs</a></dd>
+  <dd><a class="publication-title">HeartPrune: Heuristic Emotion-Aware Ranking for Training-free Datasets Pruning in MLLMs</a></dd>
   <dd>Under Review</dd>
 </dl>
 
@@ -136,7 +136,7 @@ My research mainly focuses on **Multimodal Emotion Recognition** and **Multimoda
 
 <dl>
   <dt><img align="left" width="400" src="../images/paper/Batman.png" alt="Batman"></dt>
-  <dd><a href="https://arxiv.org/abs/2503.04543" class="publication-title">Batman: Benign Knowledge Alignment Through Malicious Null Space in Federated Backdoor Attack</a></dd>
+  <dd><a class="publication-title">Batman: Benign Knowledge Alignment Through Malicious Null Space in Federated Backdoor Attack</a></dd>
   <dd>Under Review</dd>
 </dl>
 
