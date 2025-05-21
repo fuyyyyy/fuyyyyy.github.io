@@ -135,7 +135,7 @@ My research mainly focuses on **Multimodal Emotion Recognition** and **Multimoda
 </dl>
 
 <dl>
-  <dt><img align="left" width="400" src="../images/paper/Batman.png" alt="Batman"></dt>
+  <dt><img align="left" width="400" src="../images/paper/Batman1.png" alt="Batman"></dt>
   <dd><a class="publication-title">Batman: Benign Knowledge Alignment Through Malicious Null Space in Federated Backdoor Attack</a></dd>
   <dd>Under Review</dd>
 </dl>
