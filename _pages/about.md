@@ -80,7 +80,7 @@ redirect_from:
 
 Hi there! My name is Yiyang Fang (方羿阳), I am currently a first-year Master student in the [School of Computer Science at Wuhan University](https://cs.whu.edu.cn/), advised by Prof. [Mang Ye](https://scholar.google.com/citations?user=j-HxRy0AAAAJ&hl=zh-CN). Previously, I received my bachelor degree from the [School of Computer Science and Technology at Shandong University](https://www.cs.sdu.edu.cn/) in 2024. If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail.
 
-My research mainly focuses on **Multimodal Emotion Recognition**.
+My research mainly focuses on **Multimodal Emotion Recognition** and **Multimodal Large Language Models**.
 
 
 
@@ -89,7 +89,7 @@ My research mainly focuses on **Multimodal Emotion Recognition**.
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
   <li><em>2025.05:</em> 🌟 SEPM was accepted to <strong>ICML 2025 (Spotlight)</strong>.</li>
-  <li><em>2025.02:</em> 🚀 EMOE was accepted to <strong>CVPR 2025</strong>.</li>
+  <li><em>2025.02:</em> 🚀 EMOE was accepted to <strong>CVPR 2025</strong>, see you in Nashville.</li>
 </ul>
 </div>
 
@@ -122,11 +122,24 @@ My research mainly focuses on **Multimodal Emotion Recognition**.
 <hr>
 
 <dl>
+  <dt><img align="left" width="400" src="../images/paper/HeartPrune.png" alt="HeartPrune"></dt>
+  <dd><a href="https://arxiv.org/abs/2503.04543" class="publication-title">HeartPrune: Heuristic Emotion-Aware Ranking for Training-free Datasets Pruning in MLLMs</a></dd>
+  <dd>Under Review</dd>
+</dl>
+
+<dl>
   <dt><img align="left" width="400" src="../images/paper/MLLM_survey.png" alt="MLLM_survey"></dt>
   <dd><a href="https://arxiv.org/abs/2503.04543" class="publication-title">Keeping Yourself is Important in Downstream Tuning Multimodal Large Language Model</a></dd>
   <dd>Wenke Huang<sup>&dagger;</sup>, Jian Liang<sup>&dagger;</sup>, Xianda Guo<sup>&dagger;</sup>, <strong>Yiyang Fang<sup>&dagger;</sup></strong> <strong><span class="co-first">(co-first)</span></strong>, Guancheng Wan<sup>&dagger;</sup>, Xuankun Rong, Chi Wen, Zekun Shi, Qingyun Li, Didi Zhu, Yanbiao Ma, Ke Liang, Bin Yang, He Li, Jiawei Shao, Mang Ye*, Bo Du*</dd>
   <dd>Under Review</dd>
 </dl>
+
+<dl>
+  <dt><img align="left" width="400" src="../images/paper/Batman.png" alt="Batman"></dt>
+  <dd><a href="https://arxiv.org/abs/2503.04543" class="publication-title">Batman: Benign Knowledge Alignment Through Malicious Null Space in Federated Backdoor Attack</a></dd>
+  <dd>Under Review</dd>
+</dl>
+
 
 <hr>
 
