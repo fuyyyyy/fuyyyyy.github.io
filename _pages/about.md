@@ -122,21 +122,9 @@ My research mainly focuses on **Multimodal Emotion Recognition** and **Multimoda
 <hr>
 
 <dl>
-  <dt><img align="left" width="400" src="../images/paper/HeartPrune.png" alt="HeartPrune"></dt>
-  <dd><a class="publication-title">HeartPrune: Heuristic Emotion-Aware Ranking for Training-free Datasets Pruning in MLLMs</a></dd>
-  <dd>Under Review</dd>
-</dl>
-
-<dl>
   <dt><img align="left" width="400" src="../images/paper/MLLM_survey.png" alt="MLLM_survey"></dt>
   <dd><a href="https://arxiv.org/abs/2503.04543" class="publication-title">Keeping Yourself is Important in Downstream Tuning Multimodal Large Language Model</a></dd>
   <dd>Wenke Huang<sup>&dagger;</sup>, Jian Liang<sup>&dagger;</sup>, Xianda Guo<sup>&dagger;</sup>, <strong>Yiyang Fang<sup>&dagger;</sup></strong> <strong><span class="co-first">(co-first)</span></strong>, Guancheng Wan<sup>&dagger;</sup>, Xuankun Rong, Chi Wen, Zekun Shi, Qingyun Li, Didi Zhu, Yanbiao Ma, Ke Liang, Bin Yang, He Li, Jiawei Shao, Mang Ye*, Bo Du*</dd>
-  <dd>Under Review</dd>
-</dl>
-
-<dl>
-  <dt><img align="left" width="400" src="../images/paper/Batman1.png" alt="Batman"></dt>
-  <dd><a class="publication-title">Batman: Benign Knowledge Alignment Through Malicious Null Space in Federated Backdoor Attack</a></dd>
   <dd>Under Review</dd>
 </dl>
 
