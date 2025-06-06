@@ -110,9 +110,10 @@ My research mainly focuses on **Multimodal Emotion Recognition** and **Multimoda
 
 <dl>
   <dt><img align="left" width="400" src="../images/paper/EMOE.png" alt="EMOE"></dt>
-  <dd><a class="publication-title">EMOE: Modality-Specific Enhanced Dynamic Emotion Experts</a></dd>
+  <dd><a href="https://openaccess.thecvf.com/content/CVPR2025/html/Fang_EMOE_Modality-Specific_Enhanced_Dynamic_Emotion_Experts_CVPR_2025_paper.html" class="publication-title">EMOE: Modality-Specific Enhanced Dynamic Emotion Experts</a></dd>
   <dd><strong>Yiyang Fang<sup>&dagger;</sup></strong>, Wenke Huang<sup>&dagger;</sup>, Guancheng Wan<sup>&dagger;</sup>, Kehua Su*, Mang Ye*</dd>
   <dd>Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025</dd>
+  <dd><a href="https://github.com/fuyyyyy/EMOE">[Project Page]</a></dd>
 </dl>
 
 <hr>
