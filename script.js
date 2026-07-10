@@ -8,6 +8,18 @@ const updateNavState = () => {
   if (topNav) {
     topNav.classList.toggle("is-scrolled", window.scrollY > 8);
   }
+
+  const activeOffset = topNav ? topNav.offsetHeight + 32 : 96;
+  const activeSection = sections
+    .filter((section) => section.offsetTop <= window.scrollY + activeOffset)
+    .pop() || sections[0];
+
+  navLinks.forEach((link) => {
+    link.classList.toggle(
+      "is-active",
+      link.getAttribute("href") === `#${activeSection.id}`
+    );
+  });
 };
 
 updateNavState();
@@ -28,30 +40,6 @@ if ("IntersectionObserver" in window) {
 
   sections.forEach((section) => revealObserver.observe(section));
 
-  const activeObserver = new IntersectionObserver(
-    (entries) => {
-      const visible = entries
-        .filter((entry) => entry.isIntersecting)
-        .sort((a, b) => b.intersectionRatio - a.intersectionRatio)[0];
-
-      if (!visible) {
-        return;
-      }
-
-      navLinks.forEach((link) => {
-        link.classList.toggle(
-          "is-active",
-          link.getAttribute("href") === `#${visible.target.id}`
-        );
-      });
-    },
-    {
-      rootMargin: "-28% 0px -55% 0px",
-      threshold: [0.1, 0.3, 0.6],
-    }
-  );
-
-  sections.forEach((section) => activeObserver.observe(section));
 } else {
   sections.forEach((section) => section.classList.add("is-visible"));
 }
